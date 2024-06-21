@@ -3,6 +3,9 @@
 
 This project contains an in-depth analysis of India's edible oil import and export strategies, focusing on the economic impacts of changes in import and export duties and global disruptions on the edible oil market.
 
+![MCX ComQuest](path/to/your/image.png)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
